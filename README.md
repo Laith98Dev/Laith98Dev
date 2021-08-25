@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Laith98Dev</h1>
-<h3 align="center">Simple human loved proggraming</h3>
+<h3 align="center">Simple human loved programming</h3>
 
 - 🔭 I’m currently working on **PocketMine Plugins**
 
