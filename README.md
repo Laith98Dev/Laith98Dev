@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate with **content creators**
 
-- 📫 How to reach me **spt.laithdev@gamil.com**
+- 📫 How to reach me **spt.laithdev@gmail.com**
 
 - ⚡ Fun fact **I don't care about anything**
 
