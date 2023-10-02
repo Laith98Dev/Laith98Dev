@@ -24,7 +24,7 @@
 
 <br>
 &nbsp;
-<span><img src="https://img.shields.io/badge/PHP-E34F26?style=for-the-badge&logo=php&logoColor=white" alt="PHP logo" title="PHP" height="25" /></span>
+<span><img src="https://img.shields.io/badge/PHP-0000FF?style=for-the-badge&logo=php&logoColor=blue" alt="PHP logo" title="PHP" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 logo" title="HTML5" height="25" /></span>
 &nbsp;
