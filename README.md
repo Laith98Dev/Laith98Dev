@@ -9,7 +9,7 @@
 
 🙋‍♂️ Thank you for visiting my GitHub profile! 
 
-💻 Programmer since 2018, I have much experience with PHP and Pocketmine-MP. I am the ArabSkills Founder, BlocksMC BE Developer, and Poggit Reviewer. I know some languages but love PHP.
+💻 Programmer since 2018, I have much experience with PHP and Pocketmine-MP. I am the ArabSkills Founder and Poggit Reviewer. I know some languages but love PHP.
 
 <hr>
 
@@ -37,6 +37,8 @@
 <span><img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java logo"  title="Java" height="25"/></span>
 &nbsp;
 <span><img src = "https://img.shields.io/badge/Go-1BB4EA?style=for-the-badge&logo=Go&logoColor=white" alt="Go logo"  title="Go" height="25"/></span>
+&nbsp;
+<span><img src = "https://img.shields.io/badge/C++-362158?style=for-the-badge&logo=C++&logoColor=white" alt="C++ logo"  title="C++" height="25"/></span>
 
 <br>
 
