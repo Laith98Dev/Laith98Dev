@@ -88,7 +88,7 @@ I'm a passionate developer with extensive experience in **PHP** and **Pocketmine
 [![trophy](https://github-profile-trophy.vercel.app/?username=Laith98Dev&theme=radical&no-bg=true&no-frame=true&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- Activity Graph -->
-[![Laith98Dev's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Laith98Dev&bg_color=0D1117&color=6A0DAD&line=6A0DAD&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Laith98Dev's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Laith98Dev&bg_color=0d1117&color=00D8FF&line=00D8FF&point=00FFFF&area=true&hide_border=true)
 
 </div>
 
