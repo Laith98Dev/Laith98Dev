@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=6A0DAD&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Laith98Dev;Full-Stack+Developer;Welcome+to+my+profile+%F0%9F%99%82)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=cb97f0&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Laith98Dev;Full-Stack+Developer;Welcome+to+my+profile+%F0%9F%99%82)](https://git.io/typing-svg)
 
 <img src="https://avatars.githubusercontent.com/u/49840784?v=4" width="200" height="200" style="border-radius: 50%; border: 4px solid #6A0DAD; box-shadow: 0 0 20px rgba(106, 13, 173, 0.4);">
 
@@ -82,13 +82,13 @@ I'm a passionate developer with extensive experience in **PHP** and **Pocketmine
 </a>
 
 <!-- GitHub Streak Stats -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Laith98Dev&theme=radical&hide_border=true&background=0D1117)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Laith98Dev&theme=radical&hide_border=true&background=0D1117)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 <!-- GitHub Trophy -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=Laith98Dev&theme=radical&no-bg=true&no-frame=true&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Laith98Dev&theme=radical&no-bg=true&no-frame=true&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- Activity Graph -->
-[![Laith98Dev's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Laith98Dev&bg_color=0d1117&color=00D8FF&line=00D8FF&point=00FFFF&area=true&hide_border=true)
+[![Laith98Dev's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Laith98Dev&bg_color=0d1117&color=00D8FF&line=00D8FF&point=00FFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
