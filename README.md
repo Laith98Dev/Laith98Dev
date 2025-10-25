@@ -10,7 +10,7 @@
 
 💻 **Programmer since 2018** | 🏆 **ArabSkills Founder** | 📝 **Poggit Reviewer**
 
-I'm a passionate developer with extensive experience in **PHP** and **Pocketmine-MP**. I enjoy building innovative solutions and contributing to open-source projects. While I'm proficient in multiple programming languages, PHP holds a special place in my heart ❤️.
+I'm a passionate developer with extensive experience in **PHP** and **Pocketmine-MP**. I enjoy building innovative solutions and contributing to open-source projects. While I'm proficient in multiple programming languages, PHP holds a special place in my heart 💙.
 
 ---
 
